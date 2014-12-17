@@ -1,4 +1,3 @@
 # One Month Rails
 
-This is the pinteresting sample application for 
-[*One Month Rails*](http://onemonthrails.com)
+This is the sample application we're working on to get me nasty at Ruby On Rails.  
