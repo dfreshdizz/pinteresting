@@ -1,6 +1,19 @@
-$body-bg: 						#3498db;
-$navbar-inverse-bg: 	#c0392b;
-$navbar-inverse-link-color: white;
-$brand-primary: 			#f1c40f;
-$jumbotron-bg: 				#f39c12;
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,700|Roboto);
+
+$body-bg: 										#ecf0f1;
+$font-family-sans-serif:			'Roboto';
+$navbar-height: 							50px;
+$navbar-default-bg: 					white;
+$navbar-default-brand-color:	#c0392b;
+$brand-primary: 							#c0392b;
+$jumbotron-bg: 								white;
+
 @import 'bootstrap'; 
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
